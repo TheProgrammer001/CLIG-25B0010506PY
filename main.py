@@ -1,3 +1,5 @@
+# I have no idea what I’m doing, but it works.
+
 """
 CLIG-25B0010506PY — Command-Line Interactive Blackjack Game
 
